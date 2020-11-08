@@ -5,6 +5,16 @@ I web scrapped data science roles on dice.com using an automated tool called Oct
 The main goal of this research was to look into Data Sciece roles in the U.S. to explore and understand it market demand. Below are the features I scrapped and analyzed:
 Job Title, Company Name, City, Number Of Days the job has been poseted, Skills, Employment Type, Salary
 
+#### Below are some of the questions I wanted to explore to help myself and upcoming data scientist with thier market research:
+1. What are the top companies currently looking for data scientist ?
+2. What are the top skills companies are looking for in the field ?
+3. What are the top programming languages ?
+4. What are the top deep learning frameworks ?
+5. What are the top Cloud services and big data technologies companies are using in the field?
+6. What are the top Data Visualization Tools that companies require in the field ?
+7. What are th top machine learning algorithms and libraries
+8. What are the cities and states that has the most data scinece roles ?
+
 ### Data Insight
  1. According to our Analysis, most companies are looking to hire full time data science roles followed by contract w2 and contract independent 
  2. Machine learning, statistics and data analysis are the top skills companies are looking for
