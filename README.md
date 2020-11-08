@@ -5,7 +5,7 @@ The main goal of this research was to look into Data Sciece roles in the U.S. to
 Job Title, Company Name, City, Number Of Days the job has been poseted, Skills, Employment Type, Salary
 
 ### Data Insight
- 1. According to our Analysis, most companies are looking to hire full time data science roles
+ 1. According to our Analysis, most companies are looking to hire full time data science roles followed by contract w2 and contract independent 
  2. Machine learning, statistics and data analysis are the top skills companies are looking for
  3. Python is the top programming language companies are looking for followed by SQL and Java
  4. When it comes to deep learning framework, Tensorflow tops the chart followed by PyTorch and Keras
